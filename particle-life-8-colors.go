@@ -22,7 +22,7 @@ const (
 	attractionThreshold = 300
 	attractionForce     = 0.1
 	restitution         = 0.85
-	gravity             = 1
+	gravity             = 0
 )
 
 var colorInteractions = map[string]map[string]float64{
